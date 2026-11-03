@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /cgi-bin/
+Disallow: /scripts/
+Disallow: /tmp/
+
+Sitemap: https://buymaxforce.com/sitemap.xml
