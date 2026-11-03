@@ -5,4 +5,4 @@ Disallow: /cgi-bin/
 Disallow: /scripts/
 Disallow: /tmp/
 
-Sitemap: https://buymaxforce.com/sitemap.xml
+Sitemap: https://getmaxforce.vercel.app/sitemap.xml
